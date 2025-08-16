@@ -13,6 +13,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+![1b3c5821c4ef798f196b30cc3eb46ac2](https://github.com/user-attachments/assets/b59f8504-9315-437e-8621-10805866ef7b)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=kogunstack&icon=0&color=0)](https://visitcount.itsvg.in)
 
