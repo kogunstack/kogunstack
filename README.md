@@ -1,3 +1,5 @@
+![4c2398e6be397bb08b5cb70b2192d730](https://github.com/user-attachments/assets/e744b0dd-f08e-41d1-8379-baa4481c66fc)
+
 # 💫 About Me:
 🔭 I’m currently working on Saffron! <br>👯 I’m looking to collaborate on anything startup related ;D<br>🤝 I’m looking for help with thinking of new ideas<br>🌱 I’m currently learning TypeScript<br>💬 Ask me about investing your money...<br>⚡ Fun fact about me: I like animating manga and doing GFX
 
