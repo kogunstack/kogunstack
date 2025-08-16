@@ -4,7 +4,7 @@
 🔭 I’m currently working on Saffron! <br>👯 I’m looking to collaborate on anything startup related ;D<br>🤝 I’m looking for help with thinking of new ideas<br>🌱 I’m currently learning TypeScript<br>💬 Ask me about investing your money...<br>⚡ Fun fact about me: I like animating manga and doing GFX
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ke.vn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kevinchonus) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@k.uro) 
 
 # 💻 Tech Stack:
